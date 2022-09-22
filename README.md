@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pravin Kale</h1>
-<h3 align="center">I'm a Second Year IT Student & Enthusiastic Coder!!</h3>
+<h3 align="center">I'm Third Year IT Student & Enthusiastic Coder!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinkale264&label=Profile%20views&color=0e75b6&style=flat" alt="pravinkale264" /> </p>
 
