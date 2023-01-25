@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
-- 👯 I’m looking to collaborate on **New Open Source Project**
+- 👯 I’m actively looking for an **Internship**
 
 - 🤝 I’m looking for help to **connect with New People**
 
